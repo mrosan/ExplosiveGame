@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>crosshair_tiny.png</file>
+        <file>explosion_tiny.png</file>
+        <file>crosshair.png</file>
+        <file>explosion.png</file>
+    </qresource>
+</RCC>
